@@ -17,6 +17,8 @@
 [![sqale_index](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-multipart&metric=sqale_index)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-multipart)
 [![vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=chubbyts_chubbyts-undici-multipart&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=chubbyts_chubbyts-undici-multipart)
 
+**Deprecated: @chubbyts/chubbyts-undici-multipart is no longer maintained, use [@chubbyts/chubbyts-http-multipart](https://github.com/chubbyts/chubbyts-http-multipart) instead.**
+
 ## Description
 
 A minimal multipart middleware for chubbyts-undici-server.
